@@ -28,7 +28,7 @@ export const SearchBar = () => {
     if (!trimmedQuery) {
       toast({
         title: "Input Required",
-        description: "Please enter a news headline or article.",
+        description: "Paste a news headline, article, or news URL.",
         variant: "destructive",
       });
       return;
