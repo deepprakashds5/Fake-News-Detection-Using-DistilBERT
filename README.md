@@ -113,25 +113,27 @@ The model predicts the class and returns a confidence score.
 
 # Home Page
 
-![Home Page](Frontend FYP/screenshots/home.png)
+![Home Page](screenshots/home.png)
 
 
 # Custom Analysis
 
-![Custom Analysis](Frontend FYP/screenshots/custom-analysis.png)
+![Custom Analysis](screenshots/custom-analysis.png)
 
 
 # Real News Detection
 
-![Real News](Frontend FYP/screenshots/real-news.png)
+![Real News](screenshots/real-news.png)
+
 
 # Fake News Detection
 
-![Fake News](Frontend FYP/screenshots/fake-news.png)
+![Fake News](screenshots/fake-news.png)
+
 
 # Live Feed
 
-![Live Feed](Frontend FYP/screenshots/live-feed.png)
+![Live Feed](screenshots/live-feed.png)
 
 
 ##  Future Improvements
